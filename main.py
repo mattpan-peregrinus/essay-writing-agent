@@ -1,4 +1,4 @@
-"""Main entry point for the essay writer application."""
+"""Main entry point for the essay writer application!"""
 
 from dotenv import load_dotenv
 _ = load_dotenv()
